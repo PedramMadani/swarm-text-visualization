@@ -26,7 +26,7 @@ pip install matplotlib numpy
 #### Clone the Repository:
 
 ```bash
-git clone https://github.com/yourusername/swarm-text-visualization.git
+git clone https://github.com/PedramMadani/swarm-text-visualization.git
 cd swarm-text-visualization
 ```
 
